@@ -1,0 +1,11 @@
+C:\Users\migue\source\repos\FancyReporting\FancyReporting\bin\Release\FancyReporting.dll
+C:\Users\migue\source\repos\FancyReporting\FancyReporting\bin\Release\FancyReporting.pdb
+C:\Users\migue\source\repos\FancyReporting\FancyReporting\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\migue\source\repos\FancyReporting\FancyReporting\bin\Release\Newtonsoft.Json.dll
+C:\Users\migue\source\repos\FancyReporting\FancyReporting\bin\Release\System.IO.Packaging.dll
+C:\Users\migue\source\repos\FancyReporting\FancyReporting\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\migue\source\repos\FancyReporting\FancyReporting\bin\Release\Newtonsoft.Json.xml
+C:\Users\migue\source\repos\FancyReporting\FancyReporting\bin\Release\System.IO.Packaging.xml
+C:\Users\migue\source\repos\FancyReporting\FancyReporting\obj\Release\FancyReporting.csproj.CopyComplete
+C:\Users\migue\source\repos\FancyReporting\FancyReporting\obj\Release\FancyReporting.dll
+C:\Users\migue\source\repos\FancyReporting\FancyReporting\obj\Release\FancyReporting.pdb
